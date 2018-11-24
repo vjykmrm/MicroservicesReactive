@@ -1,0 +1,252 @@
+db.accounts.insert([
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "creationDate": ISODate("2015-10-01T12:00:00.000Z"),
+    "amount": "2300",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2013-02-01T12:00:00.000Z"),
+    "amount": "100",
+    "currency": "EUR"
+  },
+  {
+    "creationDate": ISODate("2011-01-01T12:00:00.000Z"),
+    "amount": "200",
+    "currency": "BR"
+  },
+  {
+    "creationDate": ISODate("2010-01-01T12:00:00.000Z"),
+    "amount": "80000",
+    "currency": "USD"
+  }
+])
