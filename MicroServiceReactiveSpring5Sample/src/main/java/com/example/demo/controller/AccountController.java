@@ -19,8 +19,13 @@ import reactor.core.publisher.Mono;
 @RequestMapping("/accounts")
 public class AccountController {
 
-    @Autowired
+    
     private ReactiveAccountRepository reactiveAccountRepository;
+    
+    public AccountController (ReactiveAccountRepository reactiveAccountRepository)
+    {
+    	this.reactiveAccountRepository =  reactiveAccountRepository;
+    }
 
     @RequestMapping(value = "/currency/{currency}", method = RequestMethod.GET)
     Flux<Account> findByCurrency(@PathVariable String currency) {
